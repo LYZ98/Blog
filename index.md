@@ -11,9 +11,6 @@
 </head>
 
 
-
-
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LYZ98/Blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -32,7 +29,7 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
-- List $\sum x$
+- List $\sum{x}$, $\sqrt{u}$
 
 1. Numbered
 2. List 
