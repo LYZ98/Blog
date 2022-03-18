@@ -29,7 +29,8 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
-- List $\sum{x}$, $\sqrt{u}$
+- List $\sum{x}$
+- $\sqrt{u}$
 
 1. Numbered
 2. List 
